@@ -20,6 +20,7 @@ def gather_input():
         raise ValueError("Each ballot should have the same number of scores as the number of candidates.")
 
     num_voters = len(scores_list)
+    print("\nThere are ", num_voters, " voters.")
     scores_matrix = np.array([list(ballot) for ballot in scores_list], dtype=int)
 
     return pd.DataFrame(scores_matrix, columns=candidate_names), num_seats
