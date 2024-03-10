@@ -5,7 +5,7 @@ Use: Just copy and paste the code into a Python Interpreter, run, and the progra
 
 Output: The program will output the scores of the candidates each round, and who the winners are.
 
-Credits: I used the algorithm used for regular Proportional STAR / Allocated Score from https://electowiki.org/wiki/Allocated_Score for the regular allocated score part. I then added an algorithm to count runoff votes.
+Credits: I used the algorithm used for regular Proportional STAR / Allocated Score from https://electowiki.org/wiki/Allocated_Score for the regular allocated score part.
 
 
  
