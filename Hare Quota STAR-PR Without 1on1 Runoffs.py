@@ -13,7 +13,7 @@ def gather_input():
     num_seats = int(input("Enter the number of seats: "))
 
     scores_input = input(
-        "Enter all the scores separated by space (for all voters, each group represents one voter's ballot with no spaces within each ballot, but spaces separating each separate individual ballot, e.g., 43250 21532 23145): ")
+        "Enter all the ballots separated by space with no space within each ballot e.g. 231 215 421: ")
     scores_list = scores_input.split()
 
     if any(len(ballot) != num_candidates for ballot in scores_list):
