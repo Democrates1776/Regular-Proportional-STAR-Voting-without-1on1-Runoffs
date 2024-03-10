@@ -26,11 +26,17 @@ Tennessee Example https://en.wikipedia.org/wiki/STAR_voting#Example
 Demo with Droop Quota:
 
 Enter the number of candidates: 4
+
 Enter the name of candidate 1: Memphis
+
 Enter the name of candidate 2: Nashville
+
 Enter the name of candidate 3: Chattanooga
+
 Enter the name of candidate 4: Knoxville
+
 Enter the number of seats: 3
+
 Enter all the scores separated by space (for all voters, each group represents one voter's ballot with no spaces within each ballot, but spaces separating each separate individual ballot, e.g., 43250 21532 23145): 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0521 0353 0353 0353 0353 0353 0353 0353 0353 0353 0353 0353 0353 0353 0353 0353 0245 0245 0245 0245 0245 0245 0245 0245 0245 0245 0245 0245 0245 0245 0245 0245 0245
 
 Round 1 - Scores of the candidates:
