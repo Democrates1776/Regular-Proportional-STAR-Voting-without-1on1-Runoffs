@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-#Credit to https://electowiki.org/wiki/Allocated_Score
+#    Credit to https://electowiki.org/wiki/Allocated_Score
 #    Allocated Score is another name for STAR-PR
 
 def gather_input():
