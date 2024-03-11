@@ -31,13 +31,13 @@ Demo with Droop Quota:
 
 Enter the number of candidates: 4
 
-Enter the name of candidate 1: 1
+Enter the name of candidate 1: Memphis
 
-Enter the name of candidate 2: 2
+Enter the name of candidate 2: Nashville
 
-Enter the name of candidate 3: 3
+Enter the name of candidate 3: Chattanooga
 
-Enter the name of candidate 4: 4
+Enter the name of candidate 4: Knoxville
 
 Enter the number of seats: 3
 
@@ -46,18 +46,18 @@ Enter all the ballots separated by space with no space within each ballot e.g. 2
 There are  100  voters.
 
 Round 1 - Scores of the candidates:
-2: 293
-3: 237
-1: 210
-4: 156
+Nashville: 293
+Chattanooga: 237
+Memphis: 210
+Knoxville: 156
 
 Round 2 - Scores of the candidates:
-1: 210
-3: 185
-4: 130
+Memphis: 210
+Chattanooga: 185
+Knoxville: 130
 
 Round 3 - Scores of the candidates:
-3: 159
-4: 130
+Chattanooga: 159
+Knoxville: 130
 
-Winners: ['2', '1', '3']
+Winners: ['Nashville', 'Memphis', 'Chatanooga']
